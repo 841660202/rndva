@@ -178,6 +178,7 @@ android {
 }
 
 dependencies {
+    compile 'com.teprinciple:updateapputils:1.4'
     compile project(':react-native-camera')
     implementation project(':react-native-device-info')
     implementation project(':react-native-code-push')
